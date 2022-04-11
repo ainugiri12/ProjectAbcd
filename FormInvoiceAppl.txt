@@ -12,7 +12,7 @@ submitApplication()
 {
 -------------------
 $ git remote add origin https://github.com/ainugiri12/ProjectAbcd.git
-}}
+}
 
 make changes
 modified
